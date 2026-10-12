@@ -2,7 +2,7 @@
 title: "Foundations for inference - Sampling distributions"
 output: 
     bookdown::html_document2
-author: "Your Name Goes Here"
+author: "KaBria Ross"
 css: "lab.css"
 date: 'Last compiled: `r format(Sys.time(), "%B %d, %Y at %X")`'
 ---
@@ -83,7 +83,7 @@ ___________
 </ol>
 
 <div id="answer">
-Type your answer to Question 1 here and delete this sentence.
+`B.` 50% of houses in Ames are smaller than 1,499.69 square feet **is FALSE**.
 
 
 </div>
